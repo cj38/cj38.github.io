@@ -18,38 +18,23 @@
       {
         "network": "github",
         "username": "cj38",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/cj38"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "cj38",
+        "url": "www.linkedin.com/in/creighton-chan-b01290124"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+       
       ]
     },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
+    
     {
       "name": "artificial intelligence",
       "keywords": [
