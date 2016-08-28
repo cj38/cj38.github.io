@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "",
+        "username": "creighton",
         "url": "www.linkedin.com/in/creighton-chan-b01290124"
       }
     ]
@@ -34,9 +34,13 @@
        
       ]
     },
-    
     {
-      "name": "artificial intelligence",
+      "name": "Embedded Systems",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
