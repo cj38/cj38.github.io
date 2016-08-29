@@ -14,7 +14,7 @@ If resources were completely free and unlimited in terms of availability and pow
 
 ### Optimization Doesn't Seem Like the Most Enjoyable Thing..?
 Optimization is indeed one of the main tasks engineers are expected to do, but this is not what got me interested in the field. I was first interested in software when I took part in robotics during 6th grade. It was a LEGO Mindstorms RCX, a programmable brick of where legos could be attached to it. 
-<img src = "images/rcx-s.jpg">
+<img src = "/images/rcx-s.jpg">
 Building things out of LEGO bricks was definitely fun as a kid back then, but once I saw it become able to move after learning how to program it, it became so much more interesting. Soon I wanted it to be able to do more and move quicker. Thinking of creative ways to see how I could achieve more within my limits, it became more enjoyable once things started working after long hours of work. Optimization became an integrated necessity within the development process that leads to a more enjoyable final product. I soon branched to VEX robotics and then FIRST robotics. I also became exposed to web development and "real programming."
 
 ## Skills I Want to Develop
