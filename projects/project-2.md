@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Pac1.png
 title: OOP Final Project
-permalink: projects/pac
+permalink: projects/2pac
 date: 2015
 labels:
   - C++
