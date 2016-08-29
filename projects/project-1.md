@@ -12,7 +12,7 @@ labels:
 summary: My team developed a robotic mouse that won 3rd place in the 2015 UH Micromouse competition. It won 4th in the 2016 IEEE Region 6 Central Area competition.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/IMAG0136cy.jpg">
   <img class="ui image" src="../images/IMAG0138cy.jpg">
   <img class="ui image" src="../images/schematic.png">
