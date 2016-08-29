@@ -20,5 +20,5 @@ This simple Integer Calculator is a quick app that I developed for Android to be
 <img class = "ui image" src="../images/Int2.png">
 
 
-Source: <a href="/images/calc.apk"><i class="large github icon "></i>Integer Calculator APK Download (Not on Play Store)</a>
+Source: <a href="https://github.com/cj38/cj38.github.io/releases/tag/1.0"><i class="large github icon "></i>Integer Calculator APK Download</a>
 
