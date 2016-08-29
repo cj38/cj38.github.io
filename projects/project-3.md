@@ -19,5 +19,5 @@ This simple Integer Calculator is a quick app that I developed for Android to be
 
 
 
-Source: <a href=""><i class="large github icon "></i>Integer Calculator APK (Not on Play Store)</a>
+Source: <a href="/images/calc.apk"><i class="large github icon "></i>Integer Calculator APK Download (Not on Play Store)</a>
 
