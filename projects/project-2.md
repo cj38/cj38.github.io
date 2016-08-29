@@ -21,6 +21,7 @@ The map was printed out character by character to mimic the Pacman maze. Using e
 The game only has one ghost implemented due to time constraints. Rather than using an algorithm of where the ghosts picks a random cell to occupy everytime, it uses a simple formula to calculate the shortest distance between itself and the player.
 Small Code Excerpt: (Full code can be found in the source link at the bottom of the page)
 <hr>
+<pre>
  // If it is possible to move up
    if(m.isValidPosition(enemyy()-1, enemyx()))
    {
@@ -49,6 +50,7 @@ Small Code Excerpt: (Full code can be found in the source link at the bottom of 
            dist4 = sqrt(pow(abs(enemyy() - p.position1()), 2) + pow(abs(enemyx()+1 - p.position2()), 2));
    }
 }
+</pre>
 <hr>
 Also, the "power" dots that give the player the ability to eat the enemies like in the original game has been converted to just award the player with more points. Random tomatoes were also implemented to award the player extra points as well if consumed. The ghost can also "steal" the fruit from the player if it gets to it first.
 
