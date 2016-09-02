@@ -12,7 +12,7 @@ After spending about 7 hours on the Javascript tutorials FreeCodeCamp within a f
 I dived into my first timed coding challenge using all out Javascript. If not for my strong C/C++ background
 that I have developed in my previous engineering studies, I probably would have failed to complete it within the time
 limit. <br>
-<img class = "ui centered image" src = "\images\euler1.png"> <br>
+<img class = "ui centered image" src = "/images/euler1.png"> <br>
 
 However, once I watched the video solution of the problem, I found that although my implementation worked, it
 was not the most efficient. I erased what I did and completed it much faster, using the more efficient method.
