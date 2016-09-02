@@ -7,7 +7,7 @@ labels:
   - Engineering
 ---
 
-Software Engineering has becomea great industry over the past decades and will only continue to grow as our technology continues to break new bounds of possibilities never possible before. It is the magical foundation that allows hardware to function in the ways we want to extend our own capabilities and accomplish a variety of tasks either more efficiently or more exceptionally without human intereference.
+Software Engineering has become a great industry over the past decades and will only continue to grow as our technology continues to break new bounds of possibilities never possible before. It is the magical foundation that allows hardware to function in the ways we want to extend our own capabilities and accomplish a variety of tasks either more efficiently or more exceptionally without human intereference.
 <img class="ui centered image" src ="/images/Hire_engineers.jpeg">
 
 ## The Art of Engineering
