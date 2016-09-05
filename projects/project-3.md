@@ -19,8 +19,8 @@ This simple Integer Calculator is a quick app that I developed for Android to be
 So far, I learned how to compile simple Android applications ready for deployment. Although this application only uses one activity, I plan to implement more activities later. I probably will not publish this on the play store since one would probably find a full function calculator much more useful instead, but I mainly did this just to reinforce what I had learned.
 <hr>
 
-<img class = "ui image" src="../images/Int3.png">
-<img class = "ui image" src="../images/Int2.png">
+<img class = "ui medium image" src="../images/Int3.png">
+<img class = "ui medium image" src="../images/Int2.png">
 
 
 Source: <a href="https://github.com/cj38/cj38.github.io/releases/tag/1.0"><i class="large github icon "></i>Integer Calculator APK Download</a>
