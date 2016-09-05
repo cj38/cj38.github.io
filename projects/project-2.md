@@ -13,7 +13,7 @@ summary: A Pacman like game that I developed with my team for EE205.
 
 <img class="ui small right floated rounded image" src="../images/Pac2.png">
 
-For my EE205 Object Oriented Programming class, the final project that my team chose to work on was a C++ implementation of Pacman. Since creating complex GUIs were outside of the scope of the class, the graphics were limited to the command shell.
+For my EE205 Object Oriented Programming class, the final project that my team chose to work on was a C++ implementation of Pacman. I was the lead programmer, and drafted an implementation plan. Since creating complex GUIs were outside of the scope of the class, the graphics were limited to the command shell.
 I made full use of the termios.h library and ANSI Escape codes to make it as visually appealing as possible. We did not use the popular curses library and wrote our own graphical functions using escape codes. This project helped me learn how to use classes, complete with constructors and accessors.
 
 The map was printed out character by character to mimic the Pacman maze. Using escape codes, the command shell cursor was moved in the 2D space to print out the appropriate game updates instead of reprinting out the entire game map.
