@@ -24,10 +24,11 @@ For complex projects, then IDE's are definitely better yes. I remember having to
 <div class="ui red right ribbon label">Code Completion is Awesome!</div>
 <img src ="/images/ccomp.png">
 </div>
+
 ### Coding Standards
 But! Now you tell me we have to code a certain way? That's more work though! Yeah it is. Adding that extra space every time soon adds up and increases your final coding time by a minute or so, but still! Definitely more work. But then I soon realized that most of my complaints seemed only logical since the only person that will be reading my code is myself. It feels more comfortable reading code in the way I like seeing it. However in engineering, work is usually accomplished by teams. We all code differently to some extent. Some prefer string concatenation, others like template literals. Single quotes vs double quotes. Using arrow functions over the "real" function definition. 
 <div class="ui fluid image">
-<div class="ui red ribbon label">[1, 2, 3, 4] is the same thing!</div>
+<div class="ui red right ribbon label">[1, 2, 3, 4] is the same thing!</div>
 <div class="ui orange right ribbon label">Too many blank lines?!</div>
 <img src ="/images/eslint.png">
 </div>
