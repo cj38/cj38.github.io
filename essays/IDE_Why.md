@@ -27,7 +27,7 @@ then see the need for IDE's. You already know what you want and code completion 
 code templates and not even feel the need to remember everything. Type a few lettters, press ctrl-space and bam! Instantly 
 there. 
 <div class="ui fluid image">
-<div class="ui red ribbon">Code Completion is Awesome!</div>
+<div class="ui red ribbon label">Code Completion is Awesome!</div>
 <img src ="/images/ccomp.png">
 </div>
 But!
