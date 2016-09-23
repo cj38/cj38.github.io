@@ -13,10 +13,8 @@ when you can just code instantly in JSFiddle?! I always used the built in vim th
 my C/C++ programs. When I started diving into Javascript development, I was relieved that JSFiddle existed. You can do 
 whatever you want in these editors. Sets up in a second or two, letting you focus on the real coding problem at hand.
 
-Now with IDE's, its always the same process: Open. ... Do you want to start a new project? Yes. What kind of project? ...
-Okay what would you like to name it? ... Where should it be saved? ... Now here is your codespace. Oh wait, you need to
-make a file. What do you want to call it? !!!
-<hr>
+Now with IDE's, its always the same process: Open the application. Do you want to start a new project? Yes. What kind of project? ... Okay what would you like to name it? ... Where should it be saved? ... Now here is your codespace. Oh wait, you need to make a file. What do you want to call it? !!!
+
 ## Okay, but what if you need multiple files? Open 20 JSFiddle/Vim windows?
 
 For complex projects, then IDE's are definitely better yes. I remember having to make multiple shell windows and sizing all of them so I could fit them in my screen. Or vim-ming in and out of files. In terms of starting out though, I feel that using a bare editor and a compiler improves your skills in debugging programs.  It improves your ability to catch erroneous code yourself while coding instead of having an IDE highlight where all your errors are. Only when one is proficient in the language, can I then see the need for IDE's. You already know what you want and code completion can be very helpful. Beginners may just abuse code templates and not even feel the need to remember everything. Type a few lettters, press ctrl-space and bam! Instantly there. Don't even need to look at what was put in, its guaranteed to be correct. 
@@ -41,5 +39,5 @@ and assume the one coding knows how to code appropriately. For self-interests, d
 people begin to get involved with the same code/project, a coding standard is a must to prevent internal code from becoming
 way more confusing than it needs to be. But if a team consists of master software engineers that are total geniuses, then in
 cases like that, coding standards would probably slow them down. They should be allowed to code however they want, confident
-that the other members on their team can decipher their code easily. Or they 
+that the other members on their team can decipher their code easily.
 
