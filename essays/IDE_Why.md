@@ -28,8 +28,7 @@ For complex projects, then IDE's are definitely better yes. I remember having to
 ### Coding Standards
 But! Now you tell me we have to code a certain way? That's more work though! Yeah it is. Adding that extra space every time soon adds up and increases your final coding time by a minute or so, but still! Definitely more work. But then I soon realized that most of my complaints seemed only logical since the only person that will be reading my code is myself. It feels more comfortable reading code in the way I like seeing it. However in engineering, work is usually accomplished by teams. We all code differently to some extent. Some prefer string concatenation, others like template literals. Single quotes vs double quotes. Using arrow functions over the "real" function definition. 
 <div class="ui fluid image">
-<div class="ui red right ribbon label">[1, 2, 3, 4] is the same thing!</div>
-<div class="ui orange right ribbon label">Too many blank lines?!</div>
+<div class="ui orange right ribbon label">Too many blank lines?! <br> [1, 2, 3, 4] is the same thing!</div>
 <img src ="/images/eslint.png">
 </div>
 In scenarios like these though, whether one likes it or not, I do believe that adhering to a general coding standard is very helpful. ESLint seems a little too strict on some things in my own honest opinion. 
