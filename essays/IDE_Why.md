@@ -26,6 +26,8 @@ while coding instead of having an IDE highlight where all your errors are. Only 
 then see the need for IDE's. You already know what you want and code completion can be very helpful. Beginners may just abuse
 code templates and not even feel the need to remember everything. Type a few lettters, press ctrl-space and bam! Instantly 
 there. 
-<span class="ui red ribbon">Code Completion is Awesome!</span>
-<img class ="ui image" src ="/images/ccomp.png">
+<div class="ui fluid image">
+<div class="ui red ribbon">Code Completion is Awesome!</div>
+<img src ="/images/ccomp.png">
+</div>
 But!
