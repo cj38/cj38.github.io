@@ -26,7 +26,15 @@ definitions can be overriden by the inline style css with tag '!important', just
 declaration is given the highest priority.
 
 ## Thoughts on other frameworks
-
+Semantic UI was my first UI framework. Prior to that, I would use regular HTML/CSS to satisfy my applications. I have not
+fully learned what Semantic can do, due to its large library of capabilities, but the intuitive class definitions make it
+very easy to use. I assume other frameworks out there are much harder to learn, since Semantic's power is just useful 
+pre-implemented class defintions that can be applied nearly any html element with relative ease. Nonetheless, I feel that any
+well known framework out there, given the serious time commitment, can save web developers a huge amount of time. Time saving itself, is always a welcome benefit that everyone likes. From an engineering perspective, it is also less debugging, compared to if you had to write all the HTML/CSS lines 
+yourself to get the same effect. In the case of Semantic UI, code is much more readable in the sense of where it is easily
+understood of what the elements are with a quick glance at the class definitions. It also makes future design changes
+much simpler to implement, like if you want your button to be bigger or smaller. Only one word needs to be changed, versus
+changing multiple numbers in the raw css declaration.
 
 
 
