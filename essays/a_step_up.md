@@ -13,6 +13,7 @@ something nice vs something stellar requires a lot of time. A whole lot. Even mo
 is where UI Frameworks come in to help. A step up from when you have some time to make a website, but not lots of time 
 to go the full blown custom route. Semantic UI in particular, makes it easy to create responsive websites quickly that would
 normally require many lines of raw css to achieve the equivalent functions.
+
 <img class="ui centered image" src="/images/s_ui.png">
 
 ## Semantic UI
