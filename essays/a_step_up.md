@@ -14,6 +14,7 @@ is where UI Frameworks come in to help. A step up from when you have some time t
 to go the full blown custom route. Semantic UI in particular, makes it easy to create responsive websites quickly that would
 normally require many lines of raw css to achieve the equivalent functions.
 <img class="ui centered image" src="/images/s_ui.png">
+
 ## Semantic UI
 Learning Semantic UI is not too complex, thanks to its intuitive nature of class implementations. It can take care of all
 the proper formatting and spacing with a few lines of code. Like the example above. Want to make three buttons? Make a class
