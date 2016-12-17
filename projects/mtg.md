@@ -11,6 +11,7 @@ labels:
   - Semantic-Ui
 summary: First Meteor application creation. A online card game centered around UH Manoa's attractions. Based off Magic: The Gathering. 
 ---
+
 <img src="../images/landing.png" class="ui image">
 Manoa The Gathering is my first Meteor application as a test of skills. It was also my first time in
 adhering to Issue Driven Project Management practices that are commonly used through large software engineering
