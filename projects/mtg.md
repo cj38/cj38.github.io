@@ -11,7 +11,7 @@ labels:
   - Semantic-Ui
 summary: First Meteor application creation. A online card game centered around UH Manoa's attractions. Based off Magic: The Gathering. 
 ---
-<img src="images/landing.png" class="ui image">
+<img src="../images/landing.png" class="ui image">
 Manoa The Gathering is my first meteor application as a test of skills. It is a simulation of
 the official Magic: The Gathering Trading Card Game, but with card flavors centered around UH
 Manoa instead. Using the power of Meteor's reactive collections, we successfully created a functional
@@ -20,5 +20,5 @@ to achieve full stack web development with just basic javascript made it easy to
 to manage collections and publish them to clients on demand.
 
 ## The Chat Room
-<img src="images/chat.png" class="ui image">
+<img src="../images/chat.png" class="ui image">
 
