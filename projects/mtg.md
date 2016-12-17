@@ -34,7 +34,7 @@ it on Galaxy's servers after 2016. I learned how to manage multi-user interactio
 previous web development experiences were all limited to static webpages served to single users at a time. I had no knowledge of SQL database management, but I didn't need it thanks to Meteor's abstraction through JavaScript.
 
 ### Project homepage
-See https://manoa-the-gathering.github.io/ for more information
+Check out the <a href="https://manoa-the-gathering.github.io/">project homepage</a> for more information.
 
 ### Project on Github for developers
-https://github.com/manoa-the-gathering/manoa-the-gathering.github.io
+<a href="https://github.com/manoa-the-gathering/manoa-the-gathering.github.io">The Github repository for interested developers.</a>
