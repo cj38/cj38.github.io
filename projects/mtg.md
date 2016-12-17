@@ -9,7 +9,7 @@ labels:
   - Meteor/Galaxy
   - HTML/CSS/JS
   - Semantic-Ui
-summary: First Meteor application creation. A online card game centered around UH Manoa's attractions. Based off Magic: The Gathering. 
+summary: First Meteor application creation. A online card game centered around UH Manoa's attractions. Based off Magic The Gathering. 
 ---
 
 <img src="../images/landing.png" class="ui image">
