@@ -24,4 +24,17 @@ to manage collections and publish them to clients on demand.
 ## The Chat Room
 <img src="../images/chat.png" class="ui image">
 
-My contributions to this project was mostly front-end development. I was reponsible for the overall application design and layout, creating Semantic-Ui containers and combining all the functionalities together in a cohesive package. My teammates coded up the basic chat functionality and user authentication through the help of some tutorials. 
+My coding contributions to this project was mostly front-end development. I was reponsible for the overall application design and layout, creating Semantic-Ui containers and combining all the functionalities together in a cohesive package. Back-end parts I was reponsible for is the management of the online users as seen above in the chat page. Luckily, someone had already created a Meteor package that can easily grab the status of logged in users to determine if they were still online, just like a real chat room. My teammates coded up the basic chat functionality and user authentication through the help of some tutorials, along with creating the cards. The chat room also has support for private direct messaging.
+
+## Learning Experience
+
+The most valuable thing I got out of this project is the skills to create a fully functional Meteor application that
+got deployed to Galaxy, a PaaS for Meteor applications. Unfortunately there isn't funding available at the moment to maintain
+it on Galaxy's servers after 2016. I learned how to manage multi-user interactions which was something I never done before. My
+previous web development experiences were all limited to static webpages served to single users at a time. I had no knowledge of SQL database management, but I didn't need it thanks to Meteor's abstraction through JavaScript.
+
+### Project homepage
+See https://manoa-the-gathering.github.io/ for more information
+
+### Project on Github for developers
+https://github.com/manoa-the-gathering/manoa-the-gathering.github.io
