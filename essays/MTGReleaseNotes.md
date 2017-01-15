@@ -6,4 +6,5 @@ date: 2017-01-15
 labels:
   - Meteor
 ---
+<img class="ui centered image" src ="/images/manoav4.png">
 ## January 15
