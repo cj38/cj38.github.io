@@ -8,7 +8,8 @@ labels:
 ---
 <img src="../images/landing.png" class="ui image">
 Here you will find the current status of the project. Expect written updates biweekly.
-### Past unresolved issues from Fall 2016
+
+## Past unresolved issues from Fall 2016
 Last year, there were various issues that could not be resolved in time. It was a team effort and now I am the only member that shall be contributing to this project to hopefully get it to a working state. My responsibilities last semester were the layout of the overall site and the user interface, not the battle system which is currently in ruins. Apart from the functional chat room and direct messaging, the current battle system is not in a presentable state.
 
 ## Release Updates
