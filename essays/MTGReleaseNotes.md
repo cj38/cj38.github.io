@@ -25,6 +25,7 @@ Last year, there were various issues that could not be resolved in time. It was 
   - Switched the mlab db back to my own account
   
 ### Upcoming
+  * Learn how to upload images to gridFS collections
   * Finish the deck collection filling.
   * Come up with an algorithm to handle card insertions from the client into the general field collection published.
   * Modify deck collection functions from the S3 implementation.
