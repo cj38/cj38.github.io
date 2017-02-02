@@ -14,6 +14,28 @@ Last year, there were various issues that could not be resolved in time. It was 
 
 ## Release Updates
 
+## February 1
+
+### Changes
+  * Reverted back to project state before merge of battle system after trying to debug through commit history.
+  - Decided to use mongodb combined ith gridfs instead of the Amazon S3 implementation
+  - Removed S3 methods, replaced with mongo implementations
+  - Using original card placeholders. Will use UH versions once system is working.
+  - Implemented separate deck collections and a new field collection
+  - Switched the mlab db back to my own account
+  
+### Upcoming
+  * Finish the deck collection filling.
+  * Come up with an algorithm to handle card insertions from the client into the general field collection published.
+  * Modify deck collection functions from the S3 implementation.
+  
+### Features pushed back to future milestones
+  * Fix matchmaking system
+  * Define preset zones for the field collection to publish to, based on metadata from FS.file instance.
+  * Assigning unique sessions, creating a new field collection for simulatneous games
+  * Update card arts
+  * Give users ability for unique decks
+
 ## January 16
 I finished my issues earlier than my other teammates when it came to the final deadline at the end of the year. As a result, I am unfamiliar with the final code merge state of the project and have ran into many issues that were left unresolved due to no time left. Visually, everything seems okay, but with light use, things began to fall apart. I have been trying to familiarize myself with the changes that have been done by comparing commits done by my past teammates and the little documentation has made things much harder. I am still trying to salvage what I can, and have been considering reverting to the last merge to master done by me and starting over from there instead of trying to debug unfamiliar code. The main black box component that has been introduced since my last code contributions was the installation of several new Meteor packages known as CollectionFS. Through some research, I found that it was a way to serve dynamic image collections to unique users, but the implementation was very incomplete and has introduced a Bcrypt Issue that I still have not solved yet. I managed to resolve the animation issues of page transitions, but there are still overflow issues in the tutorial pages if all dropdowns are expanded. I plan to focus my efforts on getting a functional card playing system, with aesthetics and robustness of error handling being on the backburner for now.
 
