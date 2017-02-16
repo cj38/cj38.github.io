@@ -14,6 +14,23 @@ Last year, there were various issues that could not be resolved in time. It was 
 
 ## Release Updates
 
+## February 15
+
+### Report
+I have spent a lot of time working with the CollectionFS package in meteor to store the binary images of cards in a deck on the server and then have the client download a copy of it onto their system when they want to use it. After a meeting with a professor experienced in database management, I realized that I could get away with just modfiying the image src paths to display them. However with this approach, I am currently stuck on how to draw a random entry from the collection. I discovered that in Mongo 3.2, a new operator $sample was introduced, which could return a random entry from a collection. However, I would need to remove the card after to prevent it being possibly selected again. Removing it would then affect the main server database that is shared amongst users. My professor also talked to me about foreign keys, and maybe integrating that with my json objects to build a relational database using user ids which I am currently looking into..
+
+### Changes
+  * Got CollectionFS working. Client successfully downloaded the binary files from the server.
+  - Left the CollectionFS code in a separate branch, for possible custom cards in the future.
+  - Rebuilt Naya deck collection without the CollectionFS package.
+  - Downloaded full 60 card deck into the system
+  - Built a new card table layout, trashed the old one.
+  - Installed "meteorhacks: aggregate package," in hopes to use MongoDB's $sample aggregation to select random cards
+  
+### Upcoming
+  * Work on draw, shuffle, playing functions with the cards in the shared server collection
+  * Copy mechanics over to Affinity deck.
+
 ## February 1
 
 ### Changes
