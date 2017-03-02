@@ -15,7 +15,13 @@ Last year, there were various issues that could not be resolved in time. It was 
 ## Release Updates
 
 ## March 1
+For this Milestone, I was not very productive in making progress on my Naya draw functions. I had looked into "foreign keys" to get an understanding of how to integrate relational databases, but ran into some problems during integration. I had trouble trying to get the right syntax for mongo sample aggregation and inserting objects with additonal fields. Improper usage led me to experience a "Range Error: Maximum call stack size exceeded."
 
+### Changes
+  * No functional commits at the moment
+  
+### Upcoming
+  * Work on inserting cards into a player hand collection with an additional id field to build the relations.
 
 ## February 15
 
