@@ -13,7 +13,30 @@ Here you will find the current status of the project. Expect written updates biw
 Last year, there were various issues that could not be resolved in time. It was a team effort and now I am the only member that shall be contributing to this project to hopefully get it to a working state. My responsibilities last semester were the layout of the overall site and the user interface, not the battle system which is currently in ruins. Apart from the functional chat room and direct messaging, the current battle system is not in a presentable state.
 
 ## Release Updates
+## April 16
+After some struggling of how to represent the card database, I reprensented the cards as an entry JSON array and did the collection insert right before a game begins. This gets around the unique id problem that I kept running into as Mongo does not allow multiple documents with the same identifier. Currently, the battle system is functional, and subscriptions afre reflecting card changes appropriately. I deployed it to heroku for some real testing and noticed the load times are much slower compared to running it locally. Caching the images before entering the duel helped increase performance.
 
+### Changes
+  * Created a cardindex collection
+  * Created a field collection to represent cards in play
+  * Created a player hand collection. Players can see the amount of cards the opponent has in real time.
+  * Created a smaller seprate chat collection for messages exchanged between two people playing
+  * Created a responsive battle page. Could use some improved styling.
+  * Lifepoint changes update reactively. Can now draw random cards from the deck.
+  * Can interact with cards. (play, discard, sacrifice, attack, block).
+  * Created message notifications for ingame actions that are published to the duel chat.
+  * Added some keyboard hotkeys for quicker playing.
+  * Added the mulligan option, with a lock to only allow it on the first turn.
+  * Added ability to view graveyards and exile cards from them.
+  
+### Upcoming 
+  * Need to replace card art with UHM. Currently using MTG placeholder cards.
+  * Create a custom deck building system.
+  * Come up with a better way to represent the cards. Currently, only have 60 cards implemented.
+  * Add option to reveal cards from top of deck.
+  * Add text descriptions of cards below image previews.
+  * Add message notifications to notify players in the main chatroom.
+  
 ## March 1
 For this Milestone, I was not very productive in making progress on my Naya draw functions. I had looked into "foreign keys" to get an understanding of how to integrate relational databases, but ran into some problems during integration. I had trouble trying to get the right syntax for mongo sample aggregation and inserting objects with additonal fields. Improper usage led me to experience a "Range Error: Maximum call stack size exceeded."
 
