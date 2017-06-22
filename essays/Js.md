@@ -7,7 +7,7 @@ labels:
   - Engineering
   - Javascript
 ---
-## High-Speed Learning
+
 After spending about 7 hours on the Javascript tutorials FreeCodeCamp within a few days, 
 I dived into my first timed coding challenge using all out Javascript. If not for my strong C/C++ background
 that I have developed in my previous engineering studies, I probably would have failed to complete it within the time
