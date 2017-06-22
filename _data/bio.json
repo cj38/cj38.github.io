@@ -6,7 +6,7 @@
     "email": "cj38@hawaii.edu",
     "phone": "808-531-6339",
     "website": "https://creightonchan.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2017.",
+    "summary": "I am a Undergraduate Commputer Engineer. Recent graduate from University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -77,11 +77,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2017)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2013-08-24",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2017-05-13",
+      "gpa": "3.09",
       "courses": [
         "Programming for Engineers",
         "Basic Circuit Analysis I",
@@ -103,7 +103,7 @@
       "position": "Desktop Network Services Worker",
       "website": "http://library.manoa.hawaii.edu/departments/dns/dns.php",
       "startDate": "2014-01-26",
-      "endDate": "Present",
+      "endDate": "2015-05-13",
       "summary": "Maintaining the Library's World Wide Web home pages, digital collections and repositories.",
       "highlights": [
         "Digitization of print media",
@@ -149,10 +149,5 @@
       "summary": "My team placed fourth in 2016."
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  
 }
