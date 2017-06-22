@@ -15,7 +15,7 @@ functionality over one year ago and with my free time I decided to learn how to 
 was there. Also the author made it open source and gave me permission to work on it. The language of choice was in C#, a language I was unfamiliar with, so it was back to tutorials to learn a new programming language. Spent the next entire following week to
 code, test, and debug the new features I added, learning C# as I went. I already have previous programming experience with C/C++/Java/JS a though, and soon released a new version.
 
-<img class = "ui medium centered floated spaced image" src="../images/feature.png">
+<img class = "ui fluid image" src="../images/feature.png">
 
 <hr>
 Within a week, the initial mod that has been left buggy for over an year, quickly rose to become a featured file on the popular GTA5-Mods
